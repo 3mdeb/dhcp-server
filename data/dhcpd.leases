@@ -1,0 +1,5 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.3.1
+
+server-duid "\000\001\000\001!o<Y\270\312:\242\033>";
+
